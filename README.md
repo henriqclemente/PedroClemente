@@ -55,16 +55,6 @@ Uso LLMs como camada de execução para entregar produtos funcionais e escaláve
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pedro's GitHub stats](https://github-readme-stats-git-master-henriqclemente.vercel.app/api?username=henriqclemente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats-git-master-henriqclemente.vercel.app/api/top-langs/?username=henriqclemente&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=henriqclemente&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
 </div>
 
 ---
