@@ -30,7 +30,7 @@ Sou co-fundador da **Vibe Solutions / RGC Solutions** e estou cursando **Ciênci
 | Produto | Descrição | Status |
 |---|---|---|
 | 🍽️ **Vibe Menu** | SaaS para restaurantes e bares — PDV, Kanban de pedidos, KDS e assistente IA integrado | 🟢 Ativo |
-| 📅 **Vibe Agenda** | SaaS de agendamentos para barbearias e salões — React + Supabase + Node.js | 🟢 Ativo |
+| 📅 **Vibe Agenda** | SaaS de agendamentos para barbearias e salões — React + Supabase + Node.js | 🟡 Em desenvolvimento |
 | 💬 **Vibe CRM** | CRM interno com integração WhatsApp Business API para campanhas de vendas outbound | 🟡 Em desenvolvimento |
 
 ---
